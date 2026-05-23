@@ -436,7 +436,22 @@
               "throw_type": "Left click"
             }
           ]
-        }
+        },
+        {
+          "x": -2114.08,
+          "y": 830.723,
+          "z": -124.236,
+          "aim_points": [
+            {
+              "label": "Flash B Apps",
+              "type": "flash",
+              "pitch": -68.3233,
+              "yaw": -30.9987,
+              "throw_type": "Left click Throw"
+            }
+          ]
+        },
+
       ]
     },
     {
