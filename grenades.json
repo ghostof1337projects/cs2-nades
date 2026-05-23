@@ -1,0 +1,788 @@
+{
+  "maps": [
+    {
+      "map": "de_mirage",
+      "spots": [
+        {
+          "x": 1422.9556,
+          "y": -55.96875,
+          "z": -168.0,
+          "aim_points": [
+            {
+              "label": "Smoke Window",
+              "type": "smoke",
+              "pitch": -20.41571,
+              "yaw": -168.5484,
+              "throw_type": "Left click + Jump throw"
+            }
+          ]
+        },
+        {
+          "x": 1422.96,
+          "y": -248.031,
+          "z": -168.0,
+          "aim_points": [
+            {
+              "label": "Smoke T spawn to Connector",
+              "type": "smoke",
+              "pitch": -28.0187,
+              "yaw": -166.551,
+              "throw_type": "Left click + Jump throw"
+            }
+          ]
+        },
+        {
+          "x": 1239.97,
+          "y": -1128.02,
+          "z": -256.108,
+          "aim_points": [
+            {
+              "label": "Smoke Jungle",
+              "type": "smoke",
+              "pitch": -55.9499,
+              "yaw": -166.504,
+              "throw_type": "Left click + Jump throw"
+            }
+          ]
+        },
+        {
+          "x": 1152.03,
+          "y": -1183.97,
+          "z": -206.931,
+          "aim_points": [
+            {
+              "label": "Smoke Stairs",
+              "type": "smoke",
+              "pitch": -41.4123,
+              "yaw": -165.588,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": 1258.09,
+          "y": -871.969,
+          "z": -144.0,
+          "aim_points": [
+            {
+              "label": "Smoke CT",
+              "type": "smoke",
+              "pitch": -22.809,
+              "yaw": -144.45,
+              "throw_type": "Left click + Jump throw"
+            }
+          ]
+        },
+        {
+          "x": 399.458,
+          "y": 280.488,
+          "z": -257.45,
+          "aim_points": [
+            {
+              "label": "Flash Mid",
+              "type": "flash",
+              "pitch": -19.6938,
+              "yaw": -125.679,
+              "throw_type": "Left click + Jump throw"
+            }
+          ]
+        },
+        {
+          "x": 151.969,
+          "y": -1914.04,
+          "z": -168.0,
+          "aim_points": [
+            {
+              "label": "Pop Flash Ramp",
+              "type": "flash",
+              "pitch": -51.1978,
+              "yaw": -104.461,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": -1547.98,
+          "y": -2407.94,
+          "z": -242.046,
+          "aim_points": [
+            {
+              "label": "Molly CT A Site",
+              "type": "molotov",
+              "pitch": -19.5882,
+              "yaw": 12.9324,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": -2026.4,
+          "y": -2029.94,
+          "z": -301.543,
+          "aim_points": [
+            {
+              "label": "Smoke Palace from CT",
+              "type": "smoke",
+              "pitch": -30.4832,
+              "yaw": -2.71197,
+              "throw_type": "Left click + Jump throw"
+            }
+          ]
+        },
+        {
+          "x": -1247.97,
+          "y": -924.035,
+          "z": -168.0,
+          "aim_points": [
+            {
+              "label": "Flash Mid from Window",
+              "type": "flash",
+              "pitch": 22.4927,
+              "yaw": 58.4658,
+              "throw_type": "Jump + Right click"
+            }
+          ]
+        },
+        {
+          "x": -1247.97,
+          "y": -924.031,
+          "z": -168.0,
+          "aim_points": [
+            {
+              "label": "Break Window Smoke",
+              "type": "he",
+              "pitch": 22.5105,
+              "yaw": 58.485,
+              "throw_type": "Jump + right click"
+            }
+          ]
+        },
+        {
+          "x": 1422.97,
+          "y": -55.9673,
+          "z": -168.0,
+          "aim_points": [
+            {
+              "label": "Smoke Short from T Spawn",
+              "type": "smoke",
+              "pitch": -19.1664,
+              "yaw": -175.664,
+              "throw_type": "Left click + W + Jump throw"
+            }
+          ]
+        },
+        {
+          "x": -160.071,
+          "y": 887.954,
+          "z": -135.672,
+          "aim_points": [
+            {
+              "label": "Smoke Kitchen Door",
+              "type": "smoke",
+              "pitch": -46.6927,
+              "yaw": -151.903,
+              "throw_type": "Left click + Jump throw"
+            }
+          ]
+        },
+        {
+          "x": -160.046,
+          "y": 887.969,
+          "z": -135.672,
+          "aim_points": [
+            {
+              "label": "Smoke Market",
+              "type": "smoke",
+              "pitch": -50.7935,
+              "yaw": -146.571,
+              "throw_type": "Left click + Jump throw"
+            }
+          ]
+        },
+        {
+          "x": -148.06,
+          "y": 358.064,
+          "z": -41.7366,
+          "aim_points": [
+            {
+              "label": "Smoke Bench",
+              "type": "smoke",
+              "pitch": -52.7648,
+              "yaw": 178.397,
+              "throw_type": "Left click jump throw"
+            }
+          ]
+        },
+        {
+          "x": -1840.03,
+          "y": -247.964,
+          "z": -165.266,
+          "aim_points": [
+            {
+              "label": "Flash B Apps",
+              "type": "flash",
+              "pitch": -20.2927,
+              "yaw": 87.9885,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": 417.22,
+          "y": -2224.03,
+          "z": -40.0,
+          "aim_points": [
+            {
+              "label": "Flash A Site",
+              "type": "flash",
+              "pitch": -9.78546,
+              "yaw": -158.65,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": -1359.97,
+          "y": 664.031,
+          "z": -80.0,
+          "aim_points": [
+            {
+              "label": "Molly Backsite B",
+              "type": "molotov",
+              "pitch": -9.73279,
+              "yaw": 139.822,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": -1520.06,
+          "y": 804.378,
+          "z": -48.0,
+          "aim_points": [
+            {
+              "label": "Flash Backsite B",
+              "type": "flash",
+              "pitch": 6.63518,
+              "yaw": -154.151,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": -1711.96,
+          "y": -761.031,
+          "z": -168,
+          "aim_points": [
+            {
+              "label": "Smoke Palace",
+              "type": "smoke",
+              "pitch": -27.9104,
+              "yaw": -38.9169,
+              "throw_type": "Left click + Jump throw"
+            }
+          ]
+        },
+        {
+          "x": -1119.97,
+          "y": -1527.97,
+          "z": -160.612,
+          "aim_points": [
+            {
+              "label": "Molly Ramp",
+              "type": "molotov",
+              "pitch": -19.8671,
+              "yaw": 0.506939,
+              "throw_type": "Left click + W"
+            }
+          ]
+        },
+        {
+          "x": -1047.94,
+          "y": -379.994,
+          "z": -351.749,
+          "aim_points": [
+            {
+              "label": "Nade Short",
+              "type": "he",
+              "pitch": -52.0226,
+              "yaw": -28.7093,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": 343.303,
+          "y": -621.617,
+          "z": -163.035,
+          "aim_points": [
+            {
+              "label": "Flash Mid",
+              "type": "flash",
+              "pitch": -38.9986,
+              "yaw": 3.07608,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": 343.336,
+          "y": -621.609,
+          "z": -163.037,
+          "aim_points": [
+            {
+              "label": "Smoke Window",
+              "type": "smoke",
+              "pitch": -33.2435,
+              "yaw": 179.622,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": 343.303,
+          "y": -621.618,
+          "z": -163.035,
+          "aim_points": [
+            {
+              "label": "Smoke Short",
+              "type": "smoke",
+              "pitch": -34.1059,
+              "yaw": 168.094,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": -2198.97,
+          "y": 89.0627,
+          "z": -160,
+          "aim_points": [
+            {
+              "label": "Molly B Apps",
+              "type": "molotov",
+              "pitch": -13.3555,
+              "yaw": 54.3898,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": -1793.2,
+          "y": -2029.96,
+          "z": -264.578,
+          "aim_points": [
+            {
+              "label": "Smoke Side Alley From CT",
+              "type": "smoke",
+              "pitch": -26.4099,
+              "yaw": 42.4911,
+              "throw_type": "Left click, W + Jump Throw"
+            }
+          ]
+        },
+        {
+          "x": -752.047,
+          "y": -79.5562,
+          "z": -164.47,
+          "aim_points": [
+            {
+              "label": "Flash B Site from Cat",
+              "type": "flash",
+              "pitch": 57.8789,
+              "yaw": 118.653,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": -596.57,
+          "y": -2472.75,
+          "z": -168,
+          "aim_points": [
+            {
+              "label": "Smoke Connector",
+              "type": "smoke",
+              "pitch": -5.64359,
+              "yaw": 92.7578,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": -100.914,
+          "y": -1557.02,
+          "z": -54,
+          "aim_points": [
+            {
+              "label": "Smoke Cat From Tetris",
+              "type": "smoke",
+              "pitch": -56.7837,
+              "yaw": 114.448,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        },
+        {
+          "x": -1.90411,
+          "y": -1548.61,
+          "z": -170.613,
+          "aim_points": [
+            {
+              "label": "Molly Under Palace",
+              "type": "molotov",
+              "pitch": -6.24341,
+              "yaw": -111.967,
+              "throw_type": "Left click"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "map": "de_inferno",
+      "spots": [
+        {
+          "x": 1602.8,
+          "y": -377.923,
+          "z": 256,
+          "aim_points": [
+            {
+              "label": "Flash A Site",
+              "type": "flash",
+              "pitch": -21.296,
+              "yaw": -32.1128,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": 2076.06,
+          "y": -526.484,
+          "z": 96,
+          "aim_points": [
+            {
+              "label": "Flash long",
+              "type": "flash",
+              "pitch": -10.1056,
+              "yaw": 84.5496,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        },
+        {
+          "x": 1355.03,
+          "y": -89.9566,
+          "z": 132,
+          "aim_points": [
+            {
+              "label": "Molly Pit",
+              "type": "molotov",
+              "pitch": -8.55681,
+              "yaw": 1.75927,
+              "throw_type": "Left click + W"
+            }
+          ]
+        },
+        {
+          "x": 457.246,
+          "y": 1833.35,
+          "z": 136,
+          "aim_points": [
+            {
+              "label": "Smoke CT",
+              "type": "smoke",
+              "pitch": -23.4286,
+              "yaw": 62.8487,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": 1946.03,
+          "y": 1235.96,
+          "z": 171.967,
+          "aim_points": [
+            {
+              "label": "Molly A Site",
+              "type": "molotov",
+              "pitch": -26.4382,
+              "yaw": -87.5708,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": 1946.03,
+          "y": 1235.97,
+          "z": 171.968,
+          "aim_points": [
+            {
+              "label": "Flash A Site",
+              "type": "flash",
+              "pitch": -25.2415,
+              "yaw": -75.6556,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": 1278.03,
+          "y": 770.034,
+          "z": 139.004,
+          "aim_points": [
+            {
+              "label": "Molly Ninja",
+              "type": "molotov",
+              "pitch": 11.5249,
+              "yaw": 44.3939,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 436.038,
+      "y": 2879.03,
+      "z": 162.734,
+      "aim_points": [
+        {
+          "label": "Molly Church",
+          "type": "molotov",
+          "pitch": -47.2208,
+          "yaw": 40.8354,
+          "throw_type": "Left click"
+        }
+      ]
+    },
+    {
+      "x": 537.183,
+      "y": 3094.05,
+      "z": 211.886,
+      "aim_points": [
+        {
+          "label": "Flash Banana",
+          "type": "flash",
+          "pitch": 6.52979,
+          "yaw": -98.0369,
+          "throw_type": "Left click + Jumpthrow"
+        }
+      ]
+    },
+    {
+      "map": "de_dust2",
+      "spots": [
+        {
+          "x": -403.813,
+          "y": -1051.97,
+          "z": 101.394,
+          "aim_points": [
+            {
+              "label": "Smoke Doors",
+              "type": "smoke",
+              "pitch": -5.22719,
+              "yaw": 88.8035,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        },
+        {
+          "x": -403.81,
+          "y": -1051.97,
+          "z": 101.393,
+          "aim_points": [
+            {
+              "label": "Smoke Short",
+              "type": "smoke",
+              "pitch": -4.89279,
+              "yaw": 85.5474,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        },
+        {
+          "x": 572.056,
+          "y": -395.857,
+          "z": 7.98328,
+          "aim_points": [
+            {
+              "label": "Flash Long",
+              "type": "flash",
+              "pitch": -18.7088,
+              "yaw": 70.165,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        },
+        {
+          "x": 860.063,
+          "y": 790.188,
+          "z": 0.820595,
+          "aim_points": [
+            {
+              "label": "Smoke CT",
+              "type": "smoke",
+              "pitch": -55.1054,
+              "yaw": 75.4101,
+              "throw_type": "Left click + W"
+            }
+          ]
+        },
+        {
+          "x": 489.95,
+          "y": 1943.97,
+          "z": 96,
+          "aim_points": [
+            {
+              "label": "Flash A Site",
+              "type": "flash",
+              "pitch": -71.121,
+              "yaw": 86.2252,
+              "throw_type": "Left click Throw"
+            }
+          ]
+        },
+
+      ]
+    },
+    {
+      "map": "de_overpass",
+      "spots": []
+    },
+    {
+      "map": "de_nuke",
+      "spots": []
+    },
+    {
+      "map": "de_vertigo",
+      "spots": []
+    },
+    {
+      "map": "de_ancient",
+      "spots": []
+    },
+    {
+      "map": "de_anubis",
+      "spots": [
+        {
+          "x": 23.9687,
+          "y": -1744.96,
+          "z": 3.03125,
+          "aim_points": [
+            {
+              "label": "Smoke Connector",
+              "type": "smoke",
+              "pitch": -12.0736,
+              "yaw": 102.134,
+              "throw_type": "Left click + Jump throw"
+            }
+          ]
+        },
+        {
+          "x": -1267.93,
+          "y": -314.803,
+          "z": 4.20734,
+          "aim_points": [
+            {
+              "label": "Smoke Connector",
+              "type": "smoke",
+              "pitch": -25.9952,
+              "yaw": 90.5358,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        },
+        {
+          "x": -1267.94,
+          "y": -314.825,
+          "z": 4.20847,
+          "aim_points": [
+            {
+              "label": "Smoke Temple",
+              "type": "smoke",
+              "pitch": -25.8192,
+              "yaw": 88.5998,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        },
+        {
+          "x": -1267.97,
+          "y": -313.443,
+          "z": 4.17516,
+          "aim_points": [
+            {
+              "label": "Smoke CT",
+              "type": "smoke",
+              "pitch": -25.608,
+              "yaw": 86.4525,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        },
+        {
+          "x": -1267.94,
+          "y": -314.827,
+          "z": 4.2085,
+          "aim_points": [
+            {
+              "label": "Molly Pillar",
+              "type": "molotov",
+              "pitch": -25.608,
+              "yaw": 84.5261,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        },
+        {
+          "x": 751.233,
+          "y": 2050.35,
+          "z": -40,
+          "aim_points": [
+            {
+              "label": "Molly A Site",
+              "type": "molotov",
+              "pitch": -41.1665,
+              "yaw": -39.9995,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": 166.121,
+          "y": 656.998,
+          "z": -29.5938,
+          "aim_points": [
+            {
+              "label": "Flash Water",
+              "type": "flash",
+              "pitch": 34.3904,
+              "yaw": -74.7323,
+              "throw_type": "Left click"
+            }
+          ]
+        },
+        {
+          "x": 744.038,
+          "y": 740.031,
+          "z": -152,
+          "aim_points": [
+            {
+              "label": "Molly Camera",
+              "type": "molotov",
+              "pitch": -26.7344,
+              "yaw": 46.6382,
+              "throw_type": "Left Click Throw"
+            }
+          ]
+        },
+
+      ]
+    },
+    {
+      "map": "de_cache",
+      "spots": []
+    }
+  ]
+}
