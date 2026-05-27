@@ -657,6 +657,34 @@
             }
           ]
         },
+        {
+          "x": -1332.05,
+          "y": 491.937,
+          "z": 8,
+          "aim_points": [
+            {
+              "label": "Smoke Window B Site",
+              "type": "smoke",
+              "pitch": -50.8816,
+              "yaw": 88.8599,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        },
+        {
+          "x": -1332.04,
+          "y": 491.969,
+          "z": 8,
+          "aim_points": [
+            {
+              "label": "Smoke B Doors Site",
+              "type": "smoke",
+              "pitch": -57.7984,
+              "yaw": 89.7748,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
+        },
 
       ]
     },
